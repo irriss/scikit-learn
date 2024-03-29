@@ -68,8 +68,6 @@ benchmarks/HIGGS.csv.gz
 
 !/**/src/**/*.c
 !/**/src/**/*.cpp
-*.sln
-*.pyproj
 
 # Used by py.test
 .cache
@@ -110,3 +108,4 @@ sklearn/neighbors/_kd_tree.pyx
 
 # Default JupyterLite content
 jupyterlite_contents
+/.vs
